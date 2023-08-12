@@ -1,4 +1,4 @@
-Download .glb file in output and upload file to https://playcanvas.com/viewer
+Download .glb file in /output and upload file to https://playcanvas.com/viewer
 
 Get name you need for scripting/hashing. Remember everything should be lowercase
 
