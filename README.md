@@ -3,6 +3,8 @@ Semi-automated process for extracting League of Legends client data, creating sk
 
 Download .glb file and upload to https://playcanvas.com/viewer
 
+Extract name, for scripting/hashing everything should be lowercase
+
 
 Folder structure for for future patch reference
 
