@@ -1,6 +1,3 @@
-# leagueskeletons
-Semi-automated process for extracting League of Legends client data, creating skin files and parsing the bone names (skeleton) out of 3D gltf(glb) files for scripting purposes
-
 Download .glb file in output and upload file to https://playcanvas.com/viewer
 
 Get name you need for scripting/hashing. Remember everything should be lowercase
